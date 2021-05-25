@@ -1,0 +1,53 @@
+$Monseratt: 'Montserrat', sans-serif;
+$blanco: #fff;
+
+body {
+    font-family: $Monseratt;
+}
+
+.navbar-custom {
+    background-color: rgb(66,39,90);
+}
+
+
+header {
+    background: rgb(66,39,90);
+    background: linear-gradient(180deg, rgba(66,39,90,1) 44%, rgba(115,75,109,1) 100%);
+}
+
+.page-header {
+    margin-top: 3.5rem;
+    padding-bottom: 20px;
+    color: $blanco;
+
+}
+
+.projects {
+    background: rgb(66,39,90);
+    background: linear-gradient(0deg, rgba(66,39,90,1) 44%, rgba(115,75,109,1) 100%);
+    color: $blanco;
+}
+
+.square {
+    width: 100%;
+    height: auto;
+    border-radius: 7px;
+}
+
+footer {
+    background-color: #42275a;
+    color: $blanco;
+}
+
+.contact {
+    height: 100%;
+    columns: black;
+}
+
+i {
+    font-size: 5rem;
+}
+
+.pd {
+    padding-bottom: 25px;
+}
