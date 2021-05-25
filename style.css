@@ -43,10 +43,14 @@ footer {
 }
 
 i {
-  font-size: 5rem;
+  font-size: 3rem;
 }
 
 .pd {
   padding-bottom: 25px;
+}
+
+.pd-top {
+  margin-top: 12px;
 }
 /*# sourceMappingURL=style.css.map */

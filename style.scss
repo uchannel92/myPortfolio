@@ -28,6 +28,13 @@ header {
     color: $blanco;
 }
 
+.skills {
+    // background: rgb(66,39,90);
+    // color: $blanco;
+    // background: linear-gradient(180deg, rgba(66,39,90,1) 44%, rgba(115,75,109,1) 100%);
+}
+
+
 .square {
     width: 100%;
     height: auto;
@@ -45,9 +52,13 @@ footer {
 }
 
 i {
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .pd {
     padding-bottom: 25px;
+}
+
+.pd-top {
+    margin-top: 12px;
 }
